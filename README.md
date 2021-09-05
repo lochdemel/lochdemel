@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lochana De Mel
-- 👀 I’m interested in ...
+- 👀 I’m interested in Android App Developing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lochiii1996@gmail.com
