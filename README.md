@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lochana De Mel </h1>
-<h3 align="center">I’m interested in Android App Developing </h3>
+<h3 align="center">I’m interested in Android App Developing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochdemel&label=Profile%20views&color=0e75b6&style=flat" alt="lochdemel" /> </p>
 
